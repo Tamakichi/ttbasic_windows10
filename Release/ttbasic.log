@@ -1,1 +1,108 @@
-﻿
+﻿  basic.cpp
+D:\GitHub\ttbasic_windows10\basic.cpp(315,29): warning C4267: '初期化中': 'size_t' から 'uint16_t' に変換しました。データが失われているかもしれません。
+D:\GitHub\ttbasic_windows10\basic.cpp(590,12): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+D:\GitHub\ttbasic_windows10\basic.cpp(606,46): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+D:\GitHub\ttbasic_windows10\basic.cpp(639,30): warning C4267: '引数': 'size_t' から 'uint16_t' に変換しました。データが失われているかもしれません。
+D:\GitHub\ttbasic_windows10\basic.cpp(646,21): warning C4244: '=': 'int16_t' から 'unsigned char' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\basic.cpp(718,21): warning C4244: '=': 'int16_t' から 'unsigned char' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\basic.cpp(772,21): warning C4244: '=': 'int16_t' から 'unsigned char' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\basic.cpp(1660,20): warning C4244: '引数': 'short' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\basic.cpp(1675,20): warning C4244: '引数': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\basic.cpp(1685,16): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\basic.cpp(2037,23): warning C4267: '=': 'size_t' から 'int16_t' に変換しました。データが失われているかもしれません。
+D:\GitHub\ttbasic_windows10\basic.cpp(2044,35): warning C4267: '=': 'size_t' から 'int16_t' に変換しました。データが失われているかもしれません。
+D:\GitHub\ttbasic_windows10\basic.cpp(2052,14): warning C4244: '=': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\basic.cpp(2059,16): warning C4244: '=': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\basic.cpp(2063,16): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+D:\GitHub\ttbasic_windows10\basic.cpp(2063,52): warning C4267: '=': 'size_t' から 'int16_t' に変換しました。データが失われているかもしれません。
+D:\GitHub\ttbasic_windows10\basic.cpp(2065,16): warning C4244: '=': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\basic.cpp(2041,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\ttbasic_windows10\basic.cpp(2992,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tscreenBase.cpp
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(61,15): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(61,8): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(85,14): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(86,15): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(86,8): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(99,15): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(99,8): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(104,14): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(107,15): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(107,13): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(119,15): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(119,8): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(129,15): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(129,8): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(157,14): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(157,8): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(164,15): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(164,8): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(186,21): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(198,21): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(211,16): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(211,10): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(224,12): warning C4244: '引数': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(224,9): warning C4244: '引数': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(240,10): warning C4244: '引数': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(240,7): warning C4244: '引数': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(247,13): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(262,12): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(278,21): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(290,21): warning C4244: '引数': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(302,21): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(314,21): warning C4244: '引数': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(332,15): warning C4244: '引数': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(332,8): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(343,8): warning C4244: '引数': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(350,11): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(350,8): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(422,25): warning C4267: '=': 'size_t' から 'int16_t' に変換しました。データが失われているかもしれません。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(426,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(437,15): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(437,8): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(455,25): warning C4267: '=': 'size_t' から 'int16_t' に変換しました。データが失われているかもしれません。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(459,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(469,14): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(469,7): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(536,20): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tscreenBase.cpp(537,23): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+  ttbasic.cpp
+D:\GitHub\ttbasic_windows10\ttbasic.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  ttbasic_error.cpp
+  tTermscreen.cpp
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(75,17): warning C4244: '引数': 'uint16_t' から 'uint_fast8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(75,10): warning C4244: '引数': 'uint16_t' から 'uint_fast8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(101,16): warning C4244: '引数': 'uint16_t' から 'uint_fast8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(101,10): warning C4244: '引数': 'uint16_t' から 'uint_fast8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(117,6): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(129,9): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(190,16): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(199,14): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(220,24): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(236,24): warning C4244: '引数': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(250,16): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(253,16): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(255,16): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(281,24): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(298,24): warning C4244: '引数': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(321,15): warning C4244: '引数': 'int16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(321,8): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(363,14): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(363,8): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(369,14): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(394,4): warning C4244: '=': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(395,10): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(418,21): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(430,21): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(438,18): warning C4244: '=': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(451,16): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(451,10): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(517,20): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(618,20): warning C4244: '引数': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+  コードを生成中...
+D:\GitHub\ttbasic_windows10\tTermscreen.cpp(119): warning C4715: 'tTermscreen::isKeyIn': 値を返さないコントロール パスがあります。
+  mcurses.c
+D:\GitHub\ttbasic_windows10\mcurses.c(567,12): warning C4114: 同じ型修飾子が 2 度以上使われています。
+D:\GitHub\ttbasic_windows10\mcurses.c(90): warning C4716: 'mcurses_phyio_init': 値を返さなければいけません
+LINK : warning LNK4075: /INCREMENTAL は /OPT:ICF の指定によって無視されます。
+  ttbasic.vcxproj -> D:\GitHub\ttbasic_windows10\Release\ttbasic.exe
